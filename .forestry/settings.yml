@@ -6,9 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Pages
+  label: All Pages
   create: all
   match: "*"
+- type: heading
+  label: Site sections
 - type: directory
   path: content/parents
   label: Parents
