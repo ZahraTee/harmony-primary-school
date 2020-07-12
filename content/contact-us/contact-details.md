@@ -2,7 +2,7 @@
 menu:
   main:
     name: "Contact Details"
-    parent: "Contact Us"
+    parent: "contact"
     weight: 10
 ---
 

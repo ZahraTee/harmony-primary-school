@@ -1,8 +1,8 @@
 ---
 menu:
   main:
+    parent: "school"
     name: "Vision Statement"
-    parent: 'Our School'
     weight: 10
 ---
 

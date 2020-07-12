@@ -1,8 +1,8 @@
 ---
 menu:
   main:
-    name: Policies
-    parent: Parents
+    name: "Policies"
+    parent: "parents"
     weight: 10
 
 ---

@@ -2,3 +2,25 @@ baseURL = "http://www.harmonyprimaryschool.co.uk/"
 languageCode = "en-gb"
 title = "Harmony Primary School"
 theme = "harmony"
+
+[menu]
+
+    [[menu.main]]
+        identifier = "school"
+        name = " Our School"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "admissions"
+        name = "Admissions"
+        weight = 20
+    
+    [[menu.main]]
+        identifier = "parents"
+        name = "Parents"
+        weight = 30
+
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact us"
+        weight = 40

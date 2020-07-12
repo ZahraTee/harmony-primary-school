@@ -2,7 +2,7 @@
 menu:
   main:
     name: "Details for parents"
-    parent: "Parents"
+    parent: "parents"
     weight: 50
 ---
 

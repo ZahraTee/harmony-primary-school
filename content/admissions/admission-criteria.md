@@ -3,7 +3,7 @@ menu:
   main:
     name: "Admission Criteria"
     title: "Admission Criteria"
-    parent: 'Admissions'
+    parent: "admissions"
     weight: 10
 ---
 
