@@ -1,11 +1,11 @@
 ---
 menu:
   main:
-    name: "Policies"
-    parent: "parents"
-    weight: 10
+    name: Policies
+    parent: parents
+    weight: 6
 
 ---
 # School Policies
 
-I'mma write some stuff - ooooooo
+To be added.
