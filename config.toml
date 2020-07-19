@@ -1,4 +1,4 @@
-baseURL = "http://www.harmonyprimaryschool.co.uk/"
+baseURL = "http://www.staging.harmonyprimaryschool.co.uk/"
 languageCode = "en-gb"
 title = "Harmony Primary School"
 theme = "harmony"
