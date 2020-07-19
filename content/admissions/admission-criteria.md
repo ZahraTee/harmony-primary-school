@@ -7,4 +7,6 @@ menu:
     weight: 8
 
 ---
+# Admission Criteria
+
 To be added.
