@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/admissions/admission-criteria/</loc>
+  </url>
+  
+  <url>
     <loc>/contact-us/contact-details/</loc>
   </url>
   
@@ -20,6 +24,10 @@
   
   <url>
     <loc>/parents/policies/</loc>
+  </url>
+  
+  <url>
+    <loc>/admissions/</loc>
   </url>
   
   <url>
