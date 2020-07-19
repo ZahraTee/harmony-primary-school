@@ -1,6 +1,0 @@
-+++
-
-+++
-# Curriculum
-
-To be added.
