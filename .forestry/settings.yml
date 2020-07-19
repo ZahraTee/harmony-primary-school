@@ -12,23 +12,28 @@ sections:
 - type: heading
   label: Site sections
 - type: directory
-  path: content/parents
-  label: Parents
-  create: all
-  match: "**/*"
-- type: directory
   path: content/our-school
   label: Our school
   create: all
   match: "**/*"
 - type: directory
-  path: content/contact-us
-  label: Contact us
+  path: content/curriculum
+  label: Curriculum
   create: all
   match: "**/*"
 - type: directory
   path: content/admissions
   label: Admissions
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/parents
+  label: Parents
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact-us
+  label: Contact us
   create: all
   match: "**/*"
 upload_dir: static/uploads
