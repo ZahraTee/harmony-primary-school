@@ -8,6 +8,16 @@ menu:
 ---
 # Contact Details
 
-To be added.
+## Locate Us
+80 Gayton Road
+Harrow
+HA1 2LS
 
-This is a test. I hope it works.
+## Call Us
+0112 123 4567
+
+## Email Us
+general@harmonyprimaryschool.co.uk
+
+## Absences
+absences@harmonyprimaryschool.co.uk
