@@ -1,7 +1,8 @@
-baseURL = "http://www.staging.harmonyprimaryschool.co.uk/"
+baseURL = "zahratee.github.io/harmony-primary-school"
 languageCode = "en-gb"
 title = "Harmony Primary School"
 theme = "harmony"
+publishDir = "docs"
 
 [menu]
 
