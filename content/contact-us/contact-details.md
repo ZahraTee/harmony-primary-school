@@ -9,8 +9,8 @@ menu:
 # Contact Details
 
 ## Locate Us
-80 Gayton Road
-Harrow
+80 Gayton Road  
+Harrow  
 HA1 2LS
 
 ## Call Us
