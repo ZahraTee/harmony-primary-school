@@ -8,5 +8,5 @@ fields:
     required: false
   label: Title
 pages:
-- content/our-school/careers.md
+- content/our-school/vacancies.md
 - content/our-school/vision-statement.md
