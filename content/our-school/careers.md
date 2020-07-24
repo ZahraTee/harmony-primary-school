@@ -1,4 +1,6 @@
 +++
+name = "Career Opportunities"
+title = "Vacancies"
 
 +++
 # Career Opportunities
