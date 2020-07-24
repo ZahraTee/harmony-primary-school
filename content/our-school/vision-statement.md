@@ -6,7 +6,6 @@ menu:
     parent: school
     weight: 1
 ---
-
 # Vision Statement
 
 ## An excellent education rooted in Islam.

@@ -1,10 +1,11 @@
 ---
 title: Details for Parents
-name: Details for Parents1
+name: Details for Parents
 menu:
   main:
-    parent: parents
     weight: 2
+    parent: Parents
+
 ---
 # Details for Parents
 
