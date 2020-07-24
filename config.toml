@@ -4,10 +4,6 @@ publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
 [[menu.main]]
-identifier = "contact"
-name = "Contact us"
-weight = 6
-[[menu.main]]
 identifier = "school"
 name = " Our School"
 weight = 2

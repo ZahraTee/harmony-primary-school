@@ -1,8 +1,13 @@
 ---
-  title: Contact Details
-  name: Contact Details
----
+title: Contact Details
+name: Contact Details
+menu:
+  main:
+    identifier: contact
+    name: Contact us
+    weight: 6
 
+---
 # Contact Details
 
 ## Locate Us
