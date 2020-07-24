@@ -12,10 +12,6 @@ identifier = "parents"
 name = "Parents"
 weight = 5
 [[menu.main]]
-identifier = "admissions"
-name = "Admissions"
-weight = 4
-[[menu.main]]
 identifier = "school"
 name = " Our School"
 weight = 2
