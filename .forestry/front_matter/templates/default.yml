@@ -1,7 +1,17 @@
 ---
 label: Default
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 pages:
 - content/our-school/careers.md
 - content/our-school/vision-statement.md
