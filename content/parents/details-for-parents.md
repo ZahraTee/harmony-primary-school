@@ -3,11 +3,10 @@ title: Details for parents
 name: Details for parents
 menu:
   main:
-    identifier: parents
-    name: Parents
-    weight: 5
-
+    weight: 2
+    parent: Parents
 ---
+
 # Details for Parents
 
 To be added.

@@ -3,11 +3,10 @@ title: Contact Details
 name: Contact Details
 menu:
   main:
-    identifier: contact
-    name: Contact us
-    weight: 6
-
+    weight: 1
+    parent: Contact Us
 ---
+
 # Contact Details
 
 ## Locate Us

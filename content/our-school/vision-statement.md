@@ -1,10 +1,10 @@
 ---
+title: Vision Statement
+name: Vision Statement
 menu:
   main:
-    name: Vision Statement
-    parent: school
+    parent: Our School
     weight: 1
-
 ---
 # Vision Statement
 
