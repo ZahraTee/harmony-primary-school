@@ -1,11 +1,12 @@
 ---
+title: Vision Statement
+name: Vision Statement
 menu:
   main:
-    name: Vision Statement
-    parent: " Our School"
+    parent: Our School
     weight: 1
-
 ---
+
 # Vision Statement
 
 ## An excellent education rooted in Islam.
