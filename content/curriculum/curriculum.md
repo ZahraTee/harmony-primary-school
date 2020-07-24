@@ -1,8 +1,8 @@
 ---
-  title: Curriculum
-  name: Curriculum
----
+title: KS1
+name: KS1
 
-# Curriculum
+---
+# Key Stage 1
 
 To be added.
