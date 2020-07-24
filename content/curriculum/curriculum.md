@@ -3,8 +3,8 @@ title: KS1
 name: KS1
 menu:
   main:
+    parent: curriculum
     weight: 1
-    parent: Curriculum
 
 ---
 # Key Stage 1

@@ -3,8 +3,8 @@ title: Policies
 name: Policies
 menu:
   main:
+    parent: parents
     weight: 1
-    parent: Parents
 
 ---
 # School Policies

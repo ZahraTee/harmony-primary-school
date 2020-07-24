@@ -3,8 +3,7 @@ title: Contact Details
 name: Contact Details
 menu:
   main:
-    name: Contact us
-    identifier: contact
+    parent: contact
     weight: 5
 
 ---

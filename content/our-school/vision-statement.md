@@ -3,7 +3,7 @@ title: Vision Statement
 name: Vision Statement
 menu:
   main:
-    parent: Our School
+    parent: school
     weight: 1
 ---
 
