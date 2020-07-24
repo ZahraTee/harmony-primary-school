@@ -1,9 +1,6 @@
 ---
-menu:
-  main:
-    name: "Details for parents"
-    parent: "parents"
-    weight: 50
+  title: Details for parents
+  name: Details for parents
 ---
 
 # Details for Parents

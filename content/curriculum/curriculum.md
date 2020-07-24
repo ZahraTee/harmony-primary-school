@@ -1,11 +1,8 @@
 ---
-menu:
-  main:
-    name: Curriculum
-    parent: curriculum
-    weight: 10
-
+  title: Curriculum
+  name: Curriculum
 ---
+
 # Curriculum
 
 To be added.

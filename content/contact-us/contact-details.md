@@ -1,11 +1,8 @@
 ---
-menu:
-  main:
-    name: Contact Details
-    parent: contact
-    weight: 10
-
+  title: Contact Details
+  name: Contact Details
 ---
+
 # Contact Details
 
 ## Locate Us

@@ -1,10 +1,6 @@
 ---
-menu:
-  main:
-    name: Policies
-    parent: parents
-    weight: 6
-
+  title: Policies
+  name: Policies
 ---
 # School Policies
 
