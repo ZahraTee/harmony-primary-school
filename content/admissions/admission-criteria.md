@@ -3,7 +3,7 @@ title: Admission Criteria
 name: Admission Criteria
 menu:
   main:
-    weight: 1
+    weight: 3
     parent: Admissions
 
 ---

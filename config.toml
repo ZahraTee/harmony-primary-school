@@ -7,7 +7,7 @@ title = "Harmony Primary School"
 identifier = "curriculum"
 name = "Curriculum"
 url = "#"
-weight = 3
+weight = 2
 [[menu.main]]
 identifier = "parents"
 name = "Parents"
@@ -17,7 +17,7 @@ weight = 4
 identifier = "school"
 name = " Our School"
 url = "#"
-weight = 2
+weight = 1
 [params]
 homepageImage = "/example-image.jpg"
 homepageQuote = "An excellent education rooted in Islam"
