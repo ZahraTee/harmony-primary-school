@@ -1,16 +1,6 @@
 ---
 label: Default
 hide_body: false
-fields:
-- name: content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Content
-  description: The content of the post
+fields: []
 pages:
 - content/our-school/careers.md
