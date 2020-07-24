@@ -6,17 +6,14 @@ title = "Harmony Primary School"
 [[menu.main]]
 identifier = "curriculum"
 name = "Curriculum"
-url = "#"
 weight = 2
 [[menu.main]]
 identifier = "parents"
 name = "Parents"
-url = "#"
 weight = 4
 [[menu.main]]
 identifier = "school"
 name = " Our School"
-url = "#"
 weight = 1
 [params]
 homepageImage = "/example-image.jpg"
