@@ -4,23 +4,23 @@ publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
 [[menu.main]]
-identifier = "contact"
+identifier = "Contact Us"
 name = "Contact Us"
 weight = 5
 [[menu.main]]
-identifier = "curriculum"
+identifier = "Curriculum"
 name = "Curriculum"
 weight = 2
 [[menu.main]]
-identifier = "admissions"
+identifier = "Admissions"
 name = "Admissions"
 weight = 3
 [[menu.main]]
-identifier = "school"
+identifier = "Our School"
 name = "Our School"
 weight = 1
 [[menu.main]]
-identifier = "parents"
+identifier = "Parents"
 name = "Parents"
 weight = 4
 [params]
