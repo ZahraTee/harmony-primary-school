@@ -3,6 +3,6 @@ name = "Career Opportunities"
 title = "Vacancies"
 
 +++
-# Career Opportunities
+# Staff Vacancies
 
 To be added.
