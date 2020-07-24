@@ -3,32 +3,26 @@ languageCode = "en-gb"
 publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
-
-[[menu.main]]
-identifier = "school"
-name = "Our School"
-weight = 1
-
-[[menu.main]]
-identifier = "admissions"
-name = "Admissions"
-weight = 2
-
-[[menu.main]]
-identifier = "curriculum"
-name = "Curriculum"
-weight = 3
-
-[[menu.main]]
-identifier = "parents"
-name = "Parents"
-weight = 4
-
 [[menu.main]]
 identifier = "contact"
 name = "Contact Us"
 weight = 5
-
+[[menu.main]]
+identifier = "curriculum"
+name = "Curriculum"
+weight = 2
+[[menu.main]]
+identifier = "admissions"
+name = "Admissions"
+weight = 3
+[[menu.main]]
+identifier = "school"
+name = "Our School"
+weight = 1
+[[menu.main]]
+identifier = "parents"
+name = "Parents"
+weight = 4
 [params]
 homepageImage = "/example-image.jpg"
 homepageQuote = "An excellent education rooted in Islam"

@@ -3,7 +3,7 @@ title: KS1
 name: KS1
 menu:
   main:
-    parent: curriculum
+    parent: Curriculum
     weight: 1
 
 ---

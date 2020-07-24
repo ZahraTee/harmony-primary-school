@@ -3,8 +3,9 @@ title: Details for Parents
 name: Details for Parents
 menu:
   main:
-    parent: parents
+    parent: Parents
     weight: 2
+
 ---
 # Details for Parents
 
