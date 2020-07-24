@@ -1,6 +1,6 @@
 ---
-title: Details for parents
-name: Details for parents
+title: Details for Parents
+name: Details for Parents
 
 ---
 # Details for Parents
