@@ -3,9 +3,9 @@ title: Contact Details
 name: Contact Details
 menu:
   main:
-    identifier: contact
     name: Contact us
-    weight: 6
+    identifier: contact
+    weight: 5
 
 ---
 # Contact Details
