@@ -3,4 +3,5 @@ label: Default
 hide_body: false
 fields: []
 pages:
+- content/our-school/careers.md
 - content/our-school/vision-statement.md
