@@ -3,10 +3,11 @@ title: KS1
 name: KS1
 menu:
   main:
-    weight: 1
-    parent: Curriculum
----
+    identifier: curriculum
+    name: Curriculum
+    weight: 3
 
+---
 # Key Stage 1
 
 To be added.

@@ -3,6 +3,10 @@ languageCode = "en-gb"
 publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
+[[menu.main]]
+identifier = "school"
+name = " Our School"
+weight = 2
 [params]
 homepageImage = "/example-image.jpg"
 homepageQuote = "An excellent education rooted in Islam"
