@@ -3,7 +3,7 @@ menu:
   main:
     name: Vision Statement
     parent: school
-    weight: 10
+    weight: 1
 
 ---
 # Vision Statement
