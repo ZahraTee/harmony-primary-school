@@ -1,5 +1,5 @@
 +++
-title = "Admissions"
+title = "Admissions Criteria"
 
 +++
 # Admissions
