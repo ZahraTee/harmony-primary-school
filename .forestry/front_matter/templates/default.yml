@@ -2,11 +2,12 @@
 label: Default
 hide_body: false
 fields:
-- name: title
+- name: forestry-only-title
   type: text
   config:
     required: false
-  label: Title
+  label: Forestry-Only-Title
+  description: This is the title that is used throughout Forestry.
 pages:
 - content/our-school/vacancies.md
 - content/our-school/vision-statement.md
