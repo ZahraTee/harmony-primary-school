@@ -2,7 +2,7 @@
 label: Default
 hide_body: false
 fields:
-- name: forestry-only-title
+- name: title
   type: text
   config:
     required: false
