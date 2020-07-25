@@ -1,4 +1,5 @@
 +++
+forestry-only-title = "Vacancies"
 name = "Career Opportunities"
 title = "Vacancies-Blah"
 
