@@ -2,7 +2,7 @@
 title = "Assessment"
 [menu.main]
 parent = "Curriculum"
-weight = 1
+weight = 2
 
 +++
 # Assessment

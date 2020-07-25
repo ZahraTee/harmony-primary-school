@@ -3,7 +3,7 @@ title = "Headteacher’s Message"
 [menu.main]
 name = "Headteacher's Message"
 parent = "Our School"
-weight = 1
+weight = 2
 
 +++
 # Headteacher’s Message

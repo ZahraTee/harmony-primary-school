@@ -3,7 +3,7 @@ title = "Staff"
 [menu.main]
 name = "Our Staff"
 parent = "Our School"
-weight = 2
+weight = 3
 
 +++
 # Our Staff
