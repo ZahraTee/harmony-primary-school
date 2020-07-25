@@ -8,4 +8,4 @@ weight = 2
 +++
 # Our Staff
 
-To be addede.
+To be added.
