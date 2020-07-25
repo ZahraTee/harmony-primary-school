@@ -2,7 +2,7 @@
 title = "Home-Learning"
 [menu.main]
 parent = "Curriculum"
-weight = 3
+weight = 2
 
 +++
 # Home-Learning

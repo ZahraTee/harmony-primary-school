@@ -2,7 +2,7 @@
 title = "Apply"
 [menu.main]
 parent = "Admissions"
-weight = 2
+weight = 1
 
 +++
 # Apply to Harmony Primary School
