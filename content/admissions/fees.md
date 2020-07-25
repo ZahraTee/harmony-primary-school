@@ -2,7 +2,7 @@
 title = "Fees"
 [menu.main]
 parent = "Admissions"
-weight = 2
+weight = 3
 
 +++
 # Fees
