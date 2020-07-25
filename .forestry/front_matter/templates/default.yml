@@ -9,6 +9,7 @@ fields:
   label: Forestry-Only-Title
   description: This is the title that is used throughout Forestry.
 pages:
+- content/our-school/headteacher-s-message.md
 - content/our-school/our-staff.md
 - content/our-school/our-vision.md
 - content/our-school/vacancies.md
