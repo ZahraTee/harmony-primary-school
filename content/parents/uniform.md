@@ -1,5 +1,8 @@
 +++
 title = "Uniform"
+[menu.main]
+parent = "Parents"
+weight = 2
 
 +++
 # Uniform
