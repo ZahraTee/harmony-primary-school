@@ -4,25 +4,25 @@ publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
 [[menu.main]]
-identifier = "Contact Us"
-name = "Contact Us"
-weight = 5
-[[menu.main]]
-identifier = "Curriculum"
-name = "Curriculum"
-weight = 2
-[[menu.main]]
-identifier = "Admissions"
-name = "Admissions"
-weight = 3
+identifier = "Parents"
+name = "Parents"
+weight = 4
 [[menu.main]]
 identifier = "Our School"
 name = "Our School"
 weight = 1
 [[menu.main]]
-identifier = "Parents"
-name = "Parents"
-weight = 4
+identifier = "Admissions"
+name = "Admissions"
+weight = 3
+[[menu.main]]
+identifier = "Curriculum"
+name = "Curriculum"
+weight = 2
+[[menu.main]]
+identifier = "Contact Us"
+name = "Contact Us"
+weight = 5
 [params]
 homepageImage = "/example-image.jpg"
 homepageQuote = "An excellent education rooted in Islam"
