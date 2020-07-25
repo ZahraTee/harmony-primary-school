@@ -1,5 +1,5 @@
 +++
-title = "Curriculum"
+title = "Our-Curriculum"
 
 +++
 # Curriculum
