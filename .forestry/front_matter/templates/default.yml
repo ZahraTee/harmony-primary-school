@@ -6,8 +6,9 @@ fields:
   type: text
   config:
     required: false
-  label: Forestry-Only-Title
-  description: This is the title that is used throughout Forestry.
+  label: Forestry & Page Title
+  description: This is the title that is shown in the user's tab, browser history
+    and throughout Forestry.
 pages:
 - content/admissions/admissions-criteria.md
 - content/admissions/apply.md
