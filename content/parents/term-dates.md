@@ -1,7 +1,6 @@
 +++
-title = "Term-Dates"
+title = "Term Dates"
 [menu.main]
-name = "Term Dates"
 parent = "Parents"
 weight = 4
 
