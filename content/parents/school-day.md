@@ -1,7 +1,6 @@
 +++
-title = "School-Day"
+title = "School Day"
 [menu.main]
-name = "School Day"
 parent = "Parents"
 weight = 3
 
