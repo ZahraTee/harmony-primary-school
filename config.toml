@@ -3,6 +3,8 @@ languageCode = "en-gb"
 publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
+[markup.goldmark.renderer]
+unsafe= true
 [[menu.main]]
 identifier = "Parents"
 name = "Parents"
