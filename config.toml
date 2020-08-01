@@ -14,11 +14,11 @@ weight = 1
 [[menu.main]]
 identifier = "Admissions"
 name = "Admissions"
-weight = 3
+weight = 2
 [[menu.main]]
 identifier = "Curriculum"
 name = "Curriculum"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "Contact Us"
 name = "Contact Us"
