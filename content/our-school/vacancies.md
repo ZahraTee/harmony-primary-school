@@ -17,7 +17,7 @@ We are currently advertising for the following vacancies:
 ## Teaching
 
 Primary School Teacher  
-Education Support Assistant
+[Education Support Assistant](../vacancies/education-support-assistant-job-description)
 
 ## Management
 
