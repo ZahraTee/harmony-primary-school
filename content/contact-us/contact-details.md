@@ -11,14 +11,17 @@ menu:
 
 ## Locate Us
 
-Harmony Primary School  
-80 Gayton Road  
-Harrow  
+<address>
+Harmony Primary School<br/>
+80 Gayton Road<br/>
+Harrow<br/>
 HA1 2LS
+</address>
+  
 
 ## Call Us
 
-020 427 4688
+<a href="tel:+440204274688">020 427 4688</a>
 
 ## Email Us
 
@@ -29,12 +32,14 @@ admin@harmonyprimaryschool.co.uk
 Mr Yousif Khan
 
 ## Proprietor's Information
-
-Hillside Educational Trust  
-Harmony Primary School  
-80 Gayton Road  
-Harrow  
+ 
+<address>
+Hillside Educational Trust<br/>
+Harmony Primary School<br/>
+80 Gayton Road<br/>
+Harrow<br/>
 HA1 2LS
+</address>
 
 ## Chair of Governors
 
