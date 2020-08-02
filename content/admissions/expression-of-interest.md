@@ -1,5 +1,5 @@
 +++
-title = "Admissions Criteria"
+title = “Expression of Interest"
 [menu.main]
 parent = "Admissions"
 weight = 1
