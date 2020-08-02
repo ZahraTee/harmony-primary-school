@@ -19,7 +19,7 @@ It is our mission to bring out the best in each individual, striving for excelle
 ## About Us
 Harmony Primary School is an association of Parents, Professionals and Educationalists working together to return the benefits of our experience in the UK to the communities we grew up in. With a passion for core Islamic Values and a desire to empower the next generation we set about establishing an inspiring new school preparing our children for life in Modern Britain.
 
-## Your Responsibilities
+## Main duties and responsibilities
 
 1. Departmental policy, administration and resources
     + Be conversant with departmental aims and objectives as provided by the Head of Department.
