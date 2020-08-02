@@ -10,7 +10,6 @@ fields:
   description: This is the title that is shown in the user's tab, browser history
     and throughout Forestry.
 pages:
-- content/admissions/admissions-criteria.md
 - content/admissions/apply.md
 - content/admissions/fees.md
 - content/curriculum/assessment.md

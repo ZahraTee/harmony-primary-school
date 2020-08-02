@@ -10,4 +10,19 @@ weight = 4
 +++
 # Staff Vacancies
 
-To be added.
+Thank you for your interest in Harmony Primary School.
+
+We are currently advertising for the following vacancies:
+
+## Teaching
+
+Primary School Teacher  
+Homework Club Supervisor/Education Support Assistant
+
+## Management
+
+School Administrator  
+
+## Leadership
+
+Deputy Headteacher
