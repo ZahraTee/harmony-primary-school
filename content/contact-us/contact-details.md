@@ -11,7 +11,7 @@ menu:
 
 ## Locate Us
 
-Harmony Primary School
+Harmony Primary School  
 80 Gayton Road  
 Harrow  
 HA1 2LS
@@ -30,13 +30,13 @@ Mr Yousif Khan
 
 ## Proprietor's Information
 
-Hillside Educational Trust
-Harmony Primary School
+Hillside Educational Trust  
+Harmony Primary School  
 80 Gayton Road  
 Harrow  
 HA1 2LS
 
 ## Chair of Governors
 
-Dr Selim Ahmed
+Dr Selim Ahmed  
 _Send any correspondence to the school’s address, for the attention of the Chair of Governors._
