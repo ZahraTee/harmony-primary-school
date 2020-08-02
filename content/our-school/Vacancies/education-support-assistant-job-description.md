@@ -5,16 +5,21 @@ title = "Education Support Assistant Job Description"
 # Education Support Assistant
 |                |                                    |
 |----------------|------------------------------------|
-| Post title     | Education Support Assistant        |
-| Responsible to | The Headteacher and Governing Body |
-| Status         | Permanent - Fulltime               |
-| Pay            | Competitive                        |
+| Post title: | Education Support Assistant |
+| Responsible to: | The Headteacher and Governing Body |
+| Status: | Permanent - Fulltime |
+| Pay: | Competitive |
+
+## How to apply
+To apply for this position, download and fill out the application form, and send it to us at the following email address: admin@harmonyprimaryschool.co.uk
 
 ## Our Mission
-At Harmony Primary School our children lay down strong academic roots as they enjoy a rich and balanced curriculum that nurtures their abilities. It is our mission to bring out the best in each individual striving for excellence on a daily basis. We work together with parents, professionals and educators to cultivate an inspiring learning experience in an Islamic environment.
+It is our mission to bring out the best in each individual, striving for excellence on a daily basis; at Harmony Primary School we lay down strong academic roots as our children enjoy a rich and balanced curriculum that nurtures their abilities. We work together with parents and educators to cultivate an inspiring learning experience rooted in an Islamic ethos.
 
 ## About Us
 Harmony Primary School is an association of Parents, Professionals and Educationalists working together to return the benefits of our experience in the UK to the communities we grew up in. With a passion for core Islamic Values and a desire to empower the next generation we set about establishing an inspiring new school preparing our children for life in Modern Britain.
+
+## Your Responsibilities
 
 1. Departmental policy, administration and resources
     + Be conversant with departmental aims and objectives as provided by the Head of Department.
@@ -42,8 +47,8 @@ Harmony Primary School is an association of Parents, Professionals and Education
 
 *Our school is committed to safeguarding and promoting the welfare of children and young people/vulnerable adults and expects all staff and volunteers to share this commitment. The successful applicant will be subject to satisfactory Enhanced DBS clearance and all pre-employment safeguarding checks and will need to include satisfactory references.*
 
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | Criteria                    | Essential                                                                                                                                                                                                                                                                                                                                                                                                                                      | Desirable                                                                                                                                      | How Identified                                     |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | Qualifications & Training   | <ul> <li>Qualified to GCSE level with an achievement of grades B or above in each subject discipline, or equivalent.</li> </ul>                                                                                                                                                                                                                                                                                                                | <ul> <li>Educated to degree level or equivalent.</li> </ul>                                                                                    | <ul> <li>Application</li> </ul>                    |
 | Experience                  | <ul> <li>Experience of working in a classroom environment</li> <ul>                                                                                                                                                                                                                                                                                                                                                                            | <ul> <li>Experience of working in an after-school provision</li> </ul>                                                                         | <ul> <li>Application</li> <li>Interview</li> </ul> |
 | Knowledge and understanding | <ul> <li>Good knowledge of managing a classroom</li> <li>Knowledge KS1/KS2 curriculum</li> </ul>                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                | <ul> <li>Application</li> <li>Interview</li> </ul> |
