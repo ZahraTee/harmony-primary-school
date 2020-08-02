@@ -16,7 +16,7 @@ We are currently advertising for the following vacancies:
 
 ## Teaching
 
-Primary School Teacher  
+[Class Teacher](../vacancies/class-teacher-job-description)  
 [Education Support Assistant](../vacancies/education-support-assistant-job-description)
 
 ## Management
