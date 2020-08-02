@@ -21,7 +21,7 @@ We are currently advertising for the following vacancies:
 
 ## Management
 
-School Administrator
+[School Administrator](../vacancies/school-administrator-job-description)
 
 ## Leadership
 
