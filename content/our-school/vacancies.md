@@ -17,11 +17,11 @@ We are currently advertising for the following vacancies:
 ## Teaching
 
 Primary School Teacher  
-Homework Club Supervisor/Education Support Assistant
+Education Support Assistant
 
 ## Management
 
-School Administrator  
+School Administrator
 
 ## Leadership
 
