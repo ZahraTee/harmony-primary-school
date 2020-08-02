@@ -6,10 +6,6 @@ title = "Harmony Primary School"
 [markup.goldmark.renderer]
 unsafe= true
 [[menu.main]]
-identifier = "Parents"
-name = "Parents"
-weight = 4
-[[menu.main]]
 identifier = "Our School"
 name = "Our School"
 weight = 1
@@ -22,9 +18,13 @@ identifier = "Curriculum"
 name = "Curriculum"
 weight = 3
 [[menu.main]]
+identifier = "Parents"
+name = "Parents"
+weight = 4
+[[menu.main]]
 identifier = "Contact Us"
 name = "Contact Us"
 weight = 5
 [params]
 homepageImage = "/example-image.jpg"
-homepageQuote = "An excellent education rooted in Islam"
+homepageQuote = "An excellent education rooted in an Islamic ethos"
