@@ -25,4 +25,4 @@ We are currently advertising for the following vacancies:
 
 ## Leadership
 
-Deputy Headteacher
+[Deputy Headteacher](../vacancies/deputy-headteacher-job-description)
