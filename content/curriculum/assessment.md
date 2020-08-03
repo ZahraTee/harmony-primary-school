@@ -7,4 +7,4 @@ weight = 2
 +++
 # Assessment
 
-To be added.
+This page will be updated shortly.
