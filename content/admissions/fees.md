@@ -7,4 +7,4 @@ weight = 3
 +++
 # Fees
 
-To be added.
+This page will be updated shortly.
