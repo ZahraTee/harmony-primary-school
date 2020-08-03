@@ -7,4 +7,4 @@ weight = 2
 +++
 # Apply to Harmony Primary School
 
-To be added.
+This page will be updated shortly.
