@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parents on Harmony Primary School</title>
-    <link>harmonyprimaryschool.co.uk/parents/</link>
+    <link>/parents/</link>
     <description>Recent content in Parents on Harmony Primary School</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="harmonyprimaryschool.co.uk/parents/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/parents/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Policies</title>
-      <link>harmonyprimaryschool.co.uk/parents/policies/</link>
+      <link>/parents/policies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/parents/policies/</guid>
+      <guid>/parents/policies/</guid>
       <description>School Policies We are committed to working with parents and other support agencies to cater for the needs of all our staff and pupils.
 Below are our policies documents. Physical copies of the policies are available from the school reception.
 Behaviour Policy  Code of Conduct  Complaints Policy and Procedures  Curriculum Plans (Year 1 - 6)  Health and Safety Policy  Pupil Assessment Policy  Premises Plans  Safeguarding Policy </description>
@@ -23,28 +23,28 @@ Behaviour Policy  Code of Conduct  Complaints Policy and Procedures  Curriculum 
     
     <item>
       <title>School Day</title>
-      <link>harmonyprimaryschool.co.uk/parents/school-day/</link>
+      <link>/parents/school-day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/parents/school-day/</guid>
+      <guid>/parents/school-day/</guid>
       <description>School Day To be added.</description>
     </item>
     
     <item>
       <title>Term Dates</title>
-      <link>harmonyprimaryschool.co.uk/parents/term-dates/</link>
+      <link>/parents/term-dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/parents/term-dates/</guid>
+      <guid>/parents/term-dates/</guid>
       <description>Term Dates To be added.</description>
     </item>
     
     <item>
       <title>Uniform</title>
-      <link>harmonyprimaryschool.co.uk/parents/uniform/</link>
+      <link>/parents/uniform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/parents/uniform/</guid>
+      <guid>/parents/uniform/</guid>
       <description>Uniform To be added.</description>
     </item>
     

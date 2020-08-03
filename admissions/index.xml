@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admissions on Harmony Primary School</title>
-    <link>harmonyprimaryschool.co.uk/admissions/</link>
+    <link>/admissions/</link>
     <description>Recent content in Admissions on Harmony Primary School</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="harmonyprimaryschool.co.uk/admissions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/admissions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apply</title>
-      <link>harmonyprimaryschool.co.uk/admissions/apply/</link>
+      <link>/admissions/apply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/admissions/apply/</guid>
+      <guid>/admissions/apply/</guid>
       <description>Apply to Harmony Primary School This page will be updated shortly.</description>
     </item>
     
     <item>
       <title>Expression of Interest</title>
-      <link>harmonyprimaryschool.co.uk/admissions/expression-of-interest/</link>
+      <link>/admissions/expression-of-interest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/admissions/expression-of-interest/</guid>
+      <guid>/admissions/expression-of-interest/</guid>
       <description>Expression of Interest Parents are asked to complete an application form to express their interest and, based upon this, if the child is able to successfully complete an assessment set by the school, then your child will be offered a place within our setting.
 Expression of Interest Form </description>
     </item>
     
     <item>
       <title>Fees</title>
-      <link>harmonyprimaryschool.co.uk/admissions/fees/</link>
+      <link>/admissions/fees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/admissions/fees/</guid>
+      <guid>/admissions/fees/</guid>
       <description>Fees This page will be updated shortly.</description>
     </item>
     

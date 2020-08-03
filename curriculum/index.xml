@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculums on Harmony Primary School</title>
-    <link>harmonyprimaryschool.co.uk/curriculum/</link>
+    <link>/curriculum/</link>
     <description>Recent content in Curriculums on Harmony Primary School</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="harmonyprimaryschool.co.uk/curriculum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/curriculum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assessment</title>
-      <link>harmonyprimaryschool.co.uk/curriculum/assessment/</link>
+      <link>/curriculum/assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/curriculum/assessment/</guid>
+      <guid>/curriculum/assessment/</guid>
       <description>Assessment This page will be updated shortly.</description>
     </item>
     
     <item>
       <title>Home-Learning</title>
-      <link>harmonyprimaryschool.co.uk/curriculum/home-learning/</link>
+      <link>/curriculum/home-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/curriculum/home-learning/</guid>
+      <guid>/curriculum/home-learning/</guid>
       <description>Home-Learning This page will be updated shortly.</description>
     </item>
     
     <item>
       <title>Our Curriculum</title>
-      <link>harmonyprimaryschool.co.uk/curriculum/our-curriculum/</link>
+      <link>/curriculum/our-curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>harmonyprimaryschool.co.uk/curriculum/our-curriculum/</guid>
+      <guid>/curriculum/our-curriculum/</guid>
       <description>Curriculum This page will be updated shortly.</description>
     </item>
     
