@@ -1,4 +1,4 @@
-baseURL = "harmonyprimaryschool.co.uk"
+baseURL = "/"
 languageCode = "en-gb"
 publishDir = "docs"
 theme = "harmony"
