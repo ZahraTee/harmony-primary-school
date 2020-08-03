@@ -7,4 +7,4 @@ weight = 1
 +++
 # Curriculum
 
-To be added.
+This page will be updated shortly.
