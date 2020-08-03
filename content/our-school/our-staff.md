@@ -8,4 +8,4 @@ weight = 3
 +++
 # Our Staff
 
-To be added.
+This page will be updated shortly.
