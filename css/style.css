@@ -73,6 +73,7 @@ blockquote p {
     display: flex;
     flex: 1;
     margin-left: 48px;
+    justify-content: flex-end;
 }
 
 .open-menu, .close-menu {
@@ -328,7 +329,7 @@ blockquote p {
         display: inline-block;
     }
 
-    #main-nav .sub-menu div {
+    #main-nav .sub-menu {
         flex: 0;
     }
 
