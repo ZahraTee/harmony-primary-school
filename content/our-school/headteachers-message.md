@@ -8,4 +8,4 @@ weight = 2
 +++
 # Headteacher’s Message
 
-This page will be updated shortly.
+This page will be updated soon.

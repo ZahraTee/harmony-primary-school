@@ -17,22 +17,17 @@ Harmony Primary School<br/>
 Harrow<br/>
 HA1 2LS
 </address>
-  
 
 ## Call Us
 
-<a href="tel:+44204274688">020 427 4688</a>
+<a href="tel:+442084274688">0208 427 4688</a>
 
 ## Email Us
 
 admin@harmonyprimaryschool.co.uk
 
-## Headteacher
-
-Mr Yousif Khan
-
 ## Proprietor's Information
- 
+
 <address>
 Hillside Educational Trust<br/>
 Harmony Primary School<br/>
@@ -40,8 +35,3 @@ Harmony Primary School<br/>
 Harrow<br/>
 HA1 2LS
 </address>
-
-## Chair of Governors
-
-Dr Selim Ahmed  
-_Send any correspondence to the school’s address, for the attention of the Chair of Governors._
