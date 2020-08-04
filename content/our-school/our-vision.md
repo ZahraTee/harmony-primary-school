@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Our Vision"
 [menu.main]
 parent = "Our School"
