@@ -30,3 +30,9 @@ jobs:
           publish_dir: ./docs
           publish_branch: gh-pages
           cname: harmonyprimaryschool.co.uk
+
+    - name: GitHub Action to purge Cloudflare cache
+      uses: syeef/CloudflarePurgeCacheGitHubAction@200804
+      env:
+        CLOUDFLARE_AUTH_KEY: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
+        CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
