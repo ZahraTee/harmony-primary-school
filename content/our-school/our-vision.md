@@ -7,7 +7,7 @@ weight = 1
 +++
 # Our Vision
 
-> Excellence in Education rooted in an Islamic Ethos
+> An excellent education rooted in an Islamic ethos
 
 # Our Mission
 
