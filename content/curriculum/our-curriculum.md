@@ -15,8 +15,6 @@ At Harmony Primary School we strive to ensure that all children are given a curr
 
 At Harmony Primary School we are aware that children’s learning needs to keep pace with our rapidly changing world. Our creative curriculum is a carefully planned, thematic approach to teaching and learning designed to support children’s natural curiosity, stimulate their creativity and reflects the pupils\` cultural capital. It offers children the opportunity to work in depth, giving them the time they need to reflect, consolidate and transfer their learning across subjects. There is a strong emphasis on not only building up the knowledge, understanding and skills within each topic but also why the chosen learning programme is important to the here and now.
 
-We actively promote British values of democracy, the rule of law, individual liberty, and mutual respect and tolerance of those with different faiths and beliefs to prepare our pupils for life in modern day Britain. We do this within the respectful context of developing a strong sense of Islamic identity, one rooted in the Islamic British context.
-
 ### Impact
 
 We want our learners to become rounded characters with a clear understanding of complex values like equality, friendship, trust and many others. From this they will develop a character, grounded in Islamic principles and guided by British values, that prepares them for living in the community demonstrating tolerance and equality. We measure this not just by the work our children produce, but in the behaviours we see each and every day in all learners on the playground, in corridors, and in the many roles we give them.
