@@ -12,7 +12,7 @@ weight = 4
 
 Thank you for your interest in Harmony Primary School.
 
-We are currently advertising for the following vacancies:
+We currently have the following vacancies available:
 
 ### Teaching
 
