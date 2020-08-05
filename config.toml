@@ -4,7 +4,11 @@ publishDir = "docs"
 theme = "harmony"
 title = "Harmony Primary School"
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
+[[menu.main]]
+identifier = "Parents"
+name = "Parents"
+weight = 4
 [[menu.main]]
 identifier = "Our School"
 name = "Our School"
@@ -17,10 +21,6 @@ weight = 2
 identifier = "Curriculum"
 name = "Curriculum"
 weight = 3
-[[menu.main]]
-identifier = "Parents"
-name = "Parents"
-weight = 4
 [[menu.main]]
 identifier = "Contact Us"
 name = "Contact Us"
