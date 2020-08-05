@@ -14,15 +14,15 @@ Thank you for your interest in Harmony Primary School.
 
 We are currently advertising for the following vacancies:
 
-## Teaching
+### Teaching
 
 [Class Teacher](../vacancies/class-teacher-job-description)  
 [Education Support Assistant](../vacancies/education-support-assistant-job-description)
 
-## Management
+### Administration
 
 [School Administrator](../vacancies/school-administrator-job-description)
 
-## Leadership
+### Leadership
 
 [Deputy Headteacher](../vacancies/deputy-headteacher-job-description)
