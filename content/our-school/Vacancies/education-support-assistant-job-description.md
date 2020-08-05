@@ -19,7 +19,7 @@ To apply for this position, download and fill out the application form, and send
 
 ## Our Mission
 
-It is our mission to bring out the best in each individual, striving for excellence on a daily basis; at Harmony Primary School we lay down strong academic roots as our children enjoy a rich and balanced curriculum that nurtures their abilities. We work together with parents and educators to cultivate an inspiring learning experience rooted in an Islamic ethos.
+Harmony Primary School aims to bring out the best in each individual, striving for excellence on a daily basis; at HPS we lay down strong academic roots as our children are enriched by a broad, balanced curriculum that nurtures their abilities. Our school harmoniously bring together our children, parents & educators to cultivate an inspiring learning experience rooted in an Islamic ethos.
 
 ## About Us
 
