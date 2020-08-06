@@ -15,7 +15,7 @@ title = "Education Support Assistant Job Description"
 
 To apply for this position, download and fill out the application form, and send it to us at the following email address: admin@harmonyprimaryschool.co.uk
 
-{{% file-download "Application Form" "./HPS Employment Application Form.docx" %}}
+{{% file-download "Application Form" "../HPS_Employment_Application_Form.docx" %}}
 
 ## Our Mission
 
