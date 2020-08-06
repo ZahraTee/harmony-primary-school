@@ -95,6 +95,10 @@
   </url>
   
   <url>
+    <loc>/our-school/vacancies/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
@@ -104,10 +108,6 @@
   
   <url>
     <loc>/parents/uniform/</loc>
-  </url>
-  
-  <url>
-    <loc>/our-school/vacancies/</loc>
   </url>
   
 </urlset>
