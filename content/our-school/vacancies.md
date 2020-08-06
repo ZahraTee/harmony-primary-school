@@ -1,7 +1,7 @@
 +++
 forestry-only-title = "Vacancies"
 name = "Career Opportunities"
-title = "Vacancies"
+title = "Staff Vacancies"
 [menu.main]
 name = "Our Vacancies"
 parent = "Our School"
