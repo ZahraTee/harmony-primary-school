@@ -5,7 +5,6 @@ menu:
   main:
     parent: Parents
     weight: 1
-draft: true
 
 ---
 # School Policies
