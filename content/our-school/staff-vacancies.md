@@ -5,7 +5,7 @@ title = "Staff Vacancies"
 [menu.main]
 name = "Our Vacancies"
 parent = "Our School"
-weight = 4
+weight = 5
 
 +++
 # Staff Vacancies

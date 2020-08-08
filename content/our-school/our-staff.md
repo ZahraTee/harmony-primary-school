@@ -3,7 +3,7 @@ title = "Staff"
 [menu.main]
 name = "Our Staff"
 parent = "Our School"
-weight = 3
+weight = 4
 
 +++
 ## Our Harmony Team
