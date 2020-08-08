@@ -26,7 +26,7 @@ The role of the Governing Body is an intrinsic part of the leadership of the sch
 
 ## Chair of the Governing Body
 
-##### _Dr Selim Ahmed_
+**_Dr Selim Ahmed_**
 
 The governing body can be contacted via:
 
