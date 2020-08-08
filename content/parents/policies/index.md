@@ -5,6 +5,7 @@ menu:
   main:
     parent: Parents
     weight: 1
+draft: true
 
 ---
 # School Policies
@@ -19,7 +20,7 @@ Below are our policies documents. Physical copies of the policies are available 
 
 {{% file-download "Complaints Policy and Procedures" "./HPS_Complaints_Policy_and_Procedures.pdf" %}}
 
-    {{% file-download "Curriculum Plans (Year 1 - 6)" "./HPS_Curriculum_Plans_Years_1-6.pdf" %}}
+{{% file-download "Curriculum Plans (Year 1 - 6)" "./HPS_Curriculum_Plans_Years_1-6.pdf" %}}
 
 {{% file-download "Health and Safety Policy" "./Health_and_Safety_Policy.pdf" %}}
 
