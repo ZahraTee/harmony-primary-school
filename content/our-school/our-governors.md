@@ -1,5 +1,8 @@
 +++
 title = "Our Governors"
+[menu.main]
+parent = "Our School"
+weight = 3
 
 +++
 ## Governors Role
