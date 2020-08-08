@@ -30,3 +30,5 @@ Below are our policies documents. Physical copies of the policies are available 
 {{% file-download "Premises Plans" "./Premises_Plans.pdf" %}}
 
 {{% file-download "Safeguarding Policy" "./HPS_Safeguarding_Policy.pdf" %}}
+
+{{% file-download "Harmony Primary School Prospectus" "./../our-school/Harmony Primary School Prospectus.pdf" %}}
