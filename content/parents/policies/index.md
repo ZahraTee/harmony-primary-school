@@ -23,7 +23,7 @@ Below are our policies documents. Physical copies of the policies are available 
 
 {{% file-download "Health and Safety Policy" "./Health_and_Safety_Policy.pdf" %}}
 
-{{% file-download "Pupil Assessment Policy" "./Pupil_Assessment_Policy_2020.pdf" %}}
+{{% file-download "Pupil Assessment Policy" "./Pupil_Assessment_Policy_2020_HPS.pdf" %}}
 
 {{% file-download "Premises Plans" "./Premises_Plans.pdf" %}}
 
