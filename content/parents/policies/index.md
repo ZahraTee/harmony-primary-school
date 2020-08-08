@@ -28,3 +28,5 @@ Below are our policies documents. Physical copies of the policies are available 
 {{% file-download "Premises Plans" "./Premises_Plans.pdf" %}}
 
 {{% file-download "Safeguarding Policy" "./HPS_Safeguarding_Policy.pdf" %}}
+
+{{% file-download "Governor Impact Statement 2020" "./Governor_Impact_Statement_2020.pdf" %}}
