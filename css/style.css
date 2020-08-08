@@ -249,6 +249,49 @@ blockquote p {
     flex: 1;
 }
 
+.footer {
+    background-color: var(--primary-color);
+    color: var(--primary-text-color);
+    border-top: 2px solid var(--primary-text-color);
+    padding: 16px;
+    flex: 0;
+}
+
+.psheAssocicationLogo img {
+height: 72px;
+width: 72px;
+}
+
+.footer > div {
+display: flex;
+justify-content: space-between;
+}
+
+.footerDetails > ul {
+display: flex;
+justify-content: space-evenly;
+font-size: 14px;
+padding: 0;
+}
+
+.footerDetails > ul > li {
+margin: 0 16px;
+}
+
+.footerDetails > ul > li:first-child {
+list-style-type: none;
+margin-left: 0px;
+}
+
+.footerDetails > ul > li:last-child {
+margin-right: 0px;
+}
+
+.footer .logo img {
+width: auto;
+height: 48px;
+}
+
 @media only screen and (max-width: 1020px) {
     .location .details {
         flex: 1;
@@ -358,6 +401,30 @@ blockquote p {
     .location .map {
         display: none;
     }
+    
+    .footerDetails > ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-size: 14px;
+        padding: 0;
+    }
+    
+    .footerDetails > ul > li {
+        margin: 0;
+        list-style-type: none;
+    }
+    
+    .footer > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .footer .logo {
+        display: flex;
+        justify-content: center;
+    }
 }
 
 
@@ -392,47 +459,4 @@ blockquote p {
 .file-download-light svg {
     height: 24px;
     margin-right: 12px;
-}
-                
-.footer {
-        background-color: var(--primary-color);
-        color: var(--primary-text-color);
-        border-top: 2px solid var(--primary-text-color);
-        padding: 16px;
-        flex: 0;
-}
-
-.psheAssocicationLogo img {
-    height: 72px;
-    width: 72px;
-}
-
-.footer > div {
-    display: flex;
-    justify-content: space-between;
-}
-
-.footerDetails > ul {
-    display: flex;
-    justify-content: space-evenly;
-    font-size: 14px;
-    padding: 0;
-}
-
-.footerDetails > ul > li {
-    margin: 0 16px;
-}
-
-.footerDetails > ul > li:first-child {
-    list-style-type: none;
-    margin-left: 0px;
-}
-
-.footerDetails > ul > li:last-child {
-    margin-right: 0px;
-}
-
-.footer .logo img {
-    width: auto;
-    height: 48px;
 }
