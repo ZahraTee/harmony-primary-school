@@ -9,7 +9,7 @@ weight = 1
 
 Harmony Primary School aims to bring out the best in each individual, striving for excellence on a daily basis; at HPS we lay down strong academic roots as our children are enriched by a broad, balanced curriculum that nurtures their abilities. Our school harmoniously bring together our children, parents & educators to cultivate an inspiring learning experience rooted in an Islamic ethos.
 
-{{% file-download "Harmony Primary School Brochure" "./Harmony Primary School Brochure.pdf" %}}
+{{% file-download "Harmony Primary School Brochure" "../Harmony Primary School Brochure.pdf" %}}
 
 # Our Core Values
 
