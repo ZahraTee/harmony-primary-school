@@ -30,8 +30,6 @@ admin@harmonyprimaryschool.co.uk
 
 <address>
 
-Yousif Khan 
-
- Hillside Educational Trust<br/> Harmony Primary School<br/> 80 Gayton Road<br/> Harrow<br/> HA1 2LS </address>
+Hillside Educational Trust<br/> Harmony Primary School<br/> 80 Gayton Road<br/> Harrow<br/> HA1 2LS </address>
 
 admin@harmonyprimaryschool.co.uk
