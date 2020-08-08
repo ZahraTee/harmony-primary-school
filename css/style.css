@@ -360,13 +360,6 @@ blockquote p {
     }
 }
 
-.footer {
-    background-color: var(--primary-color);
-    color: var(--primary-text-color);
-    border-top: 2px solid var(--primary-text-color);
-    padding: 16px;
-    flex: 0;
-}
 
 .file-download {
     border: 2px solid var(--primary-text-color);
@@ -399,4 +392,47 @@ blockquote p {
 .file-download-light svg {
     height: 24px;
     margin-right: 12px;
+}
+                
+.footer {
+        background-color: var(--primary-color);
+        color: var(--primary-text-color);
+        border-top: 2px solid var(--primary-text-color);
+        padding: 16px;
+        flex: 0;
+}
+
+.psheAssocicationLogo img {
+    height: 72px;
+    width: 72px;
+}
+
+.footer > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerDetails > ul {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 14px;
+    padding: 0;
+}
+
+.footerDetails > ul > li {
+    margin: 0 16px;
+}
+
+.footerDetails > ul > li:first-child {
+    list-style-type: none;
+    margin-left: 0px;
+}
+
+.footerDetails > ul > li:last-child {
+    margin-right: 0px;
+}
+
+.footer .logo img {
+    width: auto;
+    height: 48px;
 }
