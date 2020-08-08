@@ -373,12 +373,30 @@ blockquote p {
     display: inline-flex;
     padding: 24px;
     width: 100%;
+    max-width: 45ch;
     text-decoration: none;
     color: var(--primary-text-color);
     margin-bottom: 8px;
 }
 
 .file-download img {
+    height: 24px;
+    margin-right: 12px;
+    fill: currentColor;
+}
+
+.file-download-light {
+    border: 2px solid var(--primary-color);
+    display: inline-flex;
+    padding: 24px;
+    width: 100%;
+    max-width: 45ch;
+    text-decoration: none;
+    color: var(--primary-color);
+    margin-bottom: 8px;
+}
+
+.file-download-light svg {
     height: 24px;
     margin-right: 12px;
 }
