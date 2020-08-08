@@ -24,20 +24,10 @@ The role of the Governing Body is an intrinsic part of the leadership of the sch
 7. To ensure that any Ofsted action plan/s is delivered effectively.
 8. To ensure each Governor has completed up-to-date safeguard training.
 
-## Members of the Governing Body
+## Chair of the Governing Body
 
-Chair of Governors     Dr Selim AHmed
+##### _Dr Selim Ahmed_
 
-Vice Chair                   Ibrar Hussain
+The governing body can be contacted via:
 
-Safeguarding              Sofia Jabeen
-
-H&S Governor            Sam Saleh
-
-Parent Governors        Iman Wild
-
-Staff Governors           Naila Hussain
-
-Associates                   Alim Shaikh
-
-Head Teacher              Yousif Khan
+clerktogb@harmonyprimaryschool.co.uk
