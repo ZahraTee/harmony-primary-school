@@ -21,6 +21,8 @@ Below are our policies documents. Physical copies of the policies are available 
 
 {{% file-download "Curriculum Plans (Year 1 - 6)" "./HPS_Curriculum_Plans_Years_1-6.pdf" %}}
 
+{{% file-download "Discipline and Exclusions Policy" "./Discipline_and_Exclusions_Policy.pdf" %}}
+
 {{% file-download "Health and Safety Policy" "./Health_and_Safety_Policy.pdf" %}}
 
 {{% file-download "Pupil Assessment Policy" "./Pupil_Assessment_Policy_2020_HPS.pdf" %}}
@@ -28,5 +30,3 @@ Below are our policies documents. Physical copies of the policies are available 
 {{% file-download "Premises Plans" "./Premises_Plans.pdf" %}}
 
 {{% file-download "Safeguarding Policy" "./HPS_Safeguarding_Policy.pdf" %}}
-
-{{% file-download "Governor Impact Statement 2020" "./Governor_Impact_Statement_2020.pdf" %}}
