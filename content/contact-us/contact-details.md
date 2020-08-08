@@ -11,12 +11,10 @@ menu:
 
 ## Locate Us
 
-<address>
-Harmony Primary School<br/>
-80 Gayton Road<br/>
-Harrow<br/>
+Harmony Primary School  
+80 Gayton Road  
+Harrow  
 HA1 2LS
-</address>
 
 ## Call Us
 
@@ -28,8 +26,10 @@ admin@harmonyprimaryschool.co.uk
 
 ## Proprietor's Information
 
-<address>
-
-Hillside Educational Trust<br/> Harmony Primary School<br/> 80 Gayton Road<br/> Harrow<br/> HA1 2LS </address>
+Hillside Educational Trust  
+Harmony Primary School  
+80 Gayton Road  
+Harrow  
+HA1 2LS  
 
 admin@harmonyprimaryschool.co.uk
