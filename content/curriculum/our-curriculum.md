@@ -17,6 +17,6 @@ At Harmony Primary School we are aware that children’s learning needs to keep 
 
 ### Impact
 
-We want our learners to become rounded characters with a clear understanding of complex values like equality, friendship, trust and many others. From this they will develop a character, grounded in Islamic principles and guided by British values, that prepares them for living in the community demonstrating tolerance and equality. We measure this not just by the work our children produce, but in the behaviours we see each and every day in all learners on the playground, in corridors, and in the many roles we give them.
+We want our learners to become rounded characters with a clear understanding of complex values like fairness, friendship, trust and many others. From this they will develop a character, grounded in Islamic principles and commonly shared British values, that prepares them for living in the community demonstrating tolerance and equality. We measure this not just by the work our children produce, but in the behaviours we see each and every day in all learners on the playground, in corridors, and in the many roles we give them.
 
 Our learners are guided by all staff on how to approach challenges every day. This could be on the playground, in a game or disagreement, or in class in a complex learning challenge. The impact should be that children don’t give up, are highly empowered to succeed, achieve at a high standard and are independent and nurturing.
