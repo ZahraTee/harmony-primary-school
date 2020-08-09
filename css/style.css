@@ -257,39 +257,55 @@ blockquote p {
     flex: 0;
 }
 
+.footerLogos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerLogos > section {
+    display: flex;
+    align-items: center;
+}
+
+.ABALogo img {
+    height: auto;
+    width: 172px;
+    margin: 0 16px 0 0;
+}
+
 .psheAssocicationLogo img {
-height: 72px;
-width: 72px;
-}
-
-.footer > div {
-display: flex;
-justify-content: space-between;
-}
-
-.footerDetails > ul {
-display: flex;
-justify-content: space-evenly;
-font-size: 14px;
-padding: 0;
-}
-
-.footerDetails > ul > li {
-margin: 0 16px;
-}
-
-.footerDetails > ul > li:first-child {
-list-style-type: none;
-margin-left: 0px;
-}
-
-.footerDetails > ul > li:last-child {
-margin-right: 0px;
+    height: 72px;
+    width: 72px;
 }
 
 .footer .logo img {
-width: auto;
-height: 48px;
+    height: 48px;
+    width: auto;
+}
+
+.footer > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerDetails > ul {
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    padding: 0;
+}
+
+.footerDetails > ul > li {
+    margin: 16px;
+}
+
+.footerDetails > ul > li:first-child {
+    margin-left: 0;
+    list-style-type: none;
+}
+
+.footerDetails > ul > li:last-child {
+    margin-right: 0;
 }
 
 @media only screen and (max-width: 1020px) {
@@ -402,28 +418,30 @@ height: 48px;
         display: none;
     }
     
-    .footerDetails > ul {
-        display: flex;
+    .footerLogos {
         flex-direction: column;
-        justify-content: space-evenly;
-        font-size: 14px;
-        padding: 0;
-    }
-    
-    .footerDetails > ul > li {
-        margin: 0;
-        list-style-type: none;
-    }
-    
-    .footer > div {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+        align-items: center;
+        justify-content: flex-start;
     }
 
-    .footer .logo {
-        display: flex;
-        justify-content: center;
+    .footerLogos > section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ABALogo img {
+        margin: 16px 0;
+    }
+
+    .footerDetails > ul {
+        flex-direction: column;
+        align-items: center;
+        font-size: 16px;
+    }
+
+    .footerDetails > ul > li {
+        list-style-type: none;
+        margin: 8px;
     }
 }
 
