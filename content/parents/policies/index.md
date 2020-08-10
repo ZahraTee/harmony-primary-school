@@ -13,24 +13,24 @@ We are committed to working with parents and other support agencies to cater for
 
 Below are our policies documents. Physical copies of the policies are available from the school reception.
 
-{{% file-download "Assessment Policy" "./Assessment Policy v2.pdf" %}}
+{{% file-download "Assessment Policy" "./HPS_Assessment_Policy.pdf" %}}
 
-{{% file-download "Behaviour Policy" "./Behaviour_Policy.pdf" %}}
+{{% file-download "Behaviour Policy" "./HPS_Behaviour_Policy.pdf" %}}
 
-{{% file-download "Code of Conduct" "./Code_of_Conduct.pdf" %}}
+{{% file-download "Code of Conduct" "./HPS_Code_of_Conduct.pdf" %}}
 
 {{% file-download "Complaints Policy and Procedures" "./HPS_Complaints_Policy_and_Procedures.pdf" %}}
 
 {{% file-download "Curriculum Plans (Year 1 - 6)" "./HPS_Curriculum_Plans_Years_1-6.pdf" %}}
 
-{{% file-download "Curriculum Policy" "./Curriculum Policy v2.pdf" %}}
+{{% file-download "Curriculum Policy" "./HPS_Curriculum_Policy.pdf" %}}
 
-{{% file-download "Discipline and Exclusions Policy" "./Discipline_and_Exclusions_Policy.pdf" %}}
+{{% file-download "Discipline and Exclusions Policy" "./HPS_Discipline_and_Exclusions_Policy.pdf" %}}
 
-{{% file-download "Health and Safety Policy" "./Health_and_Safety_Policy.pdf" %}}
+{{% file-download "Health and Safety Policy" "./HPS_Health_and_Safety_Policy.pdf" %}}
 
-{{% file-download "Premises Plans" "./Premises_Plans.pdf" %}}
+{{% file-download "Premises Plans" "./HPS_Premises_Plans.pdf" %}}
 
-{{% file-download "Safeguarding Policy" "./HPS Safeguarding Policy.pdf" %}}
+{{% file-download "Safeguarding Policy" "./HPS_Safeguarding_Policy.pdf" %}}
 
 {{% file-download "Harmony Primary School Prospectus" "../../our-school/Harmony Primary School Prospectus.pdf" %}}
