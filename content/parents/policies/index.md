@@ -21,8 +21,6 @@ Below are our policies documents. Physical copies of the policies are available 
 
 {{% file-download "Complaints Policy and Procedures" "./HPS_Complaints_Policy_and_Procedures.pdf" %}}
 
-{{% file-download "Curriculum Plans (Year 1 - 6)" "./HPS_Curriculum_Plans_Years_1-6.pdf" %}}
-
 {{% file-download "Curriculum Policy" "./HPS_Curriculum_Policy.pdf" %}}
 
 {{% file-download "Discipline and Exclusions Policy" "./HPS_Discipline_and_Exclusions_Policy.pdf" %}}
