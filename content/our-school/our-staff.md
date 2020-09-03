@@ -6,7 +6,7 @@ parent = "Our School"
 weight = 4
 
 +++
-## Our Harmony Team
+# Our Harmony Team
 
 **_Come and meet the staff at our school._**
 
