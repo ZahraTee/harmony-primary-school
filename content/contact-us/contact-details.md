@@ -18,7 +18,7 @@ HA1 2LS
 
 ## Call Us
 
-<a href="tel:+442084274688">0208 427 4688</a>
+<a href="tel:+442045185222">020 4518 5222</a>
 
 ## Email Us
 
@@ -30,6 +30,6 @@ Hillside Educational Trust
 Harmony Primary School  
 80 Gayton Road  
 Harrow  
-HA1 2LS  
+HA1 2LS
 
 admin@harmonyprimaryschool.co.uk
