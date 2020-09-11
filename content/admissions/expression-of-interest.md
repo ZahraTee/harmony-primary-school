@@ -11,4 +11,4 @@ Parents are asked to complete an application form to express their interest for 
 
 {{% file-download "Expression of Interest Form" ".././Expression of Interest Form.docx" %}}
 
-    <H1>Expression of interest form</H1>
+    <H2>Expression of interest form</H2>
