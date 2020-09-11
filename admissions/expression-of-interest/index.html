@@ -122,7 +122,38 @@
     <img src="/document-download.svg" />
     Expression of Interest Form
 </a>
-<pre><code>&lt;H2&gt;Expression of interest form&lt;/H2&gt;</code></pre>
+<pre><code>&lt;H2&gt;Expression of interest form&lt;/H2&gt;
+&lt;form
+  action=&quot;https://formspree.io/mgengjwp&quot;
+  method=&quot;POST&quot;
+&gt;
+  &lt;label&gt;
+    Parent name
+    &lt;input type=&quot;text&quot; name=&quot;name&quot;&gt;
+  &lt;/label&gt;
+  &lt;label&gt;
+  &lt;select name=&quot;year&quot;&gt;
+  Pupil year (1-6)
+    &lt;option value=&quot;Year 1&quot;&gt;Year 1&lt;/option&gt;
+    &lt;option value=&quot;Year 2&quot;&gt;Year 2&lt;/option&gt;
+    &lt;option value=&quot;Year 3&quot;&gt;Year 3&lt;/option&gt;
+    &lt;option value=&quot;Year 4&quot;&gt;Year 4&lt;/option&gt;
+    &lt;option value=&quot;Year 5&quot;&gt;Year 5&lt;/option&gt;
+    &lt;option value=&quot;Year 6&quot;&gt;Year 6&lt;/option&gt;
+  &lt;select&gt;
+  &lt;/label&gt;
+  &lt;label&gt;
+    Contact number:
+    &lt;input type=&quot;text&quot; name=&quot;contact&quot;&gt;
+  &lt;/label&gt;
+    &lt;label&gt;
+    Postcode:
+    &lt;input type=&quot;text&quot; name=&quot;postcode&quot;&gt;
+  &lt;/label&gt;
+&lt;!-- your other form fields go here --&gt;
+
+  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
+&lt;/form&gt;</code></pre>
 
 			</div>
 		</article>
