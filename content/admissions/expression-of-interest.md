@@ -9,6 +9,4 @@ weight = 1
 
 Parents are asked to complete an application form to express their interest for entry to Harmony Primary School and, based upon this information, we will commence the applications process.
 
-Please [contact us](https://forms.gle/eT76FnahVRYN4DjU7) to express your interest.
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8I58qb5tTkPREl_4baQ97gl7RWlsTgMTOPPmS8258vgUdUQ/viewform?embedded=true" height="1080" width="640"></iframe>
