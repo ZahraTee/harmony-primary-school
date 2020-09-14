@@ -5,11 +5,7 @@
     <link>/parents/</link>
     <description>Recent content in Parents on Harmony Primary School</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="/parents/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="/parents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Policies</title>
       <link>/parents/policies/</link>

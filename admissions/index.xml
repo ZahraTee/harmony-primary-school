@@ -5,11 +5,7 @@
     <link>/admissions/</link>
     <description>Recent content in Admissions on Harmony Primary School</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="/admissions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="/admissions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apply</title>
       <link>/admissions/apply/</link>
