@@ -7,7 +7,7 @@ weight = 2
 +++
 # Apply
 
-To apply for a place for your child at Harmony Primary School, please complete our [enrolment form](./HPS Pupil App Form.pdf).
+To apply for a place for your child at Harmony Primary School, please complete our [enrolment form](./HPS Pupil App Form.pdf "Enrolement form").
 
 Our applications process includes an Entry Test for all children from year 1 to Year 6. If the child is able to successfully complete this assessment set by the school, then an informal interview with your child and the parents will be arranged with a view to offering a place within our school.
 
