@@ -1,13 +1,14 @@
 {{ define "main" }}
 <main>
   <!-- Just for the rebuild -->
-  <div
-    class="hero"
-    style="background-image: url({{ .Site.Params.homepageImage }});"
-  >
-    <blockquote>
-      {{ .Site.Params.homepageQuote }}
-      <!-- <span style="display: block"
+  <a href="./admissions/expression-of-interest/"
+    ><div
+      class="hero"
+      style="background-image: url({{ .Site.Params.homepageImage }});"
+    >
+      <blockquote>
+        <!-- {{ .Site.Params.homepageQuote }} -->
+        <!-- <span style="display: block"
         ><a
           href="./admissions/expression-of-interest/"
           style="font-size: 0.8em; font-style: italic; color: #12304f"
@@ -15,8 +16,9 @@
           Enrolling now - October start</a
         >
       </span> -->
-    </blockquote>
-  </div>
+      </blockquote>
+    </div>
+  </a>
   <section class="openDay"></section>
   <section class="mission">
     <h2>Our Mission</h2>
