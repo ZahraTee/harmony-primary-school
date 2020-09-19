@@ -7,7 +7,7 @@ weight = 4
 +++
 # Term Dates
 
-**Autumn Term 2020**
+### **Autumn Term 2020**
 
 **Term Begins:** 7th Oct 2020
 
@@ -15,7 +15,7 @@ weight = 4
 
 **Term Ends:** 18th Dec 2020
 
-**Spring Term 2021**
+### **Spring Term 2021**
 
 **Inset day:** 4th Jan 2021
 
@@ -27,7 +27,7 @@ weight = 4
 
 **Inset Day:** 12th April 2021
 
-**Summer Term 2021**
+### **Summer Term 2021**
 
 **Term Begins:** 13th April 2021
 
