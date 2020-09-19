@@ -11,24 +11,32 @@ The dates below are provisional pending our DfE registration, however, potential
 
 **Autumn Term 2020**
 
-Wednesday 7 Sep 2020 - Friday 23 Oct 2020
+**Term Begins:** 7th October 2020
 
-**Half Term:** Monday 26 Oct 2020 - Friday 30 Oct 2020
+**Half Term:** 28th October 2020 – 30th October 2020
 
-Monday 2 Nov 2020 - Friday 18 Dec 2020
+**Term Ends:** 18th December 2020
 
 **Spring Term 2021**
 
-Monday 4 Jan 2021 - Friday 12 Feb 2021 
+**Inset day:** 4th Jan 2021
 
-**Half Term:** Monday 15 Feb 2021 - Friday 19 Feb 2021
+**Term Begins:** 5th Jan 2021
 
-Monday 22 Feb 2021 - Wednesday 31 Mar 2021
+**Half Term:** 15th Feb 2021 - 19th Feb 2021
+
+**Spring Break:** 31st of Mar 2021 - 9th April 2021
+
+**Inset Day:** 12th April 2021
 
 **Summer Term 2021**
 
-Monday 19 Apr 2021 - Friday 28 May 2021
+**Term Begins:** 13th April 2021
 
-**Half Term:** Monday 31 May 2021 - Friday 4 Jun 2021
+**Bank Holiday:** 3rd May 2021
 
-Monday 7 Jun 2021 - Friday 23 Jul 2021
+**Half Term:** 10th May 2021- 14th May 2021
+
+**Bank Holiday:** 31st May 2021
+
+**Term Ends:** 16th July 2021
