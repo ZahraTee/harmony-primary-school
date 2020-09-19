@@ -5,7 +5,7 @@ parent = "Parents"
 weight = 4
 
 +++
-# Provisional Term Dates
+# Term Dates
 
 The dates below are provisional pending our DfE registration, however, potential parents are advised that our calendar will broadly follow Harrow Council's Termly schedule.
 
