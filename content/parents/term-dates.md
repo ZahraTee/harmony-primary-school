@@ -9,11 +9,11 @@ weight = 4
 
 **Autumn Term 2020**
 
-**Term Begins:** 7th October 2020
+**Term Begins:** 7th Oct 2020
 
-**Half Term:** 28th October 2020 – 30th October 2020
+**Half Term:** 28th Oct 2020 – 30th Oct 2020
 
-**Term Ends:** 18th December 2020
+**Term Ends:** 18th Dec 2020
 
 **Spring Term 2021**
 
