@@ -26,5 +26,5 @@ identifier = "Contact Us"
 name = "Contact Us"
 weight = 5
 [params]
-homepageImage = "/example-image.jpg"
+homepageImage = "/enrolling.jpg"
 homepageQuote = "Excellence in Education rooted in an Islamic Ethos"
