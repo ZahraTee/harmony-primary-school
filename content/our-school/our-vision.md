@@ -13,7 +13,7 @@ Harmony Primary School aims to bring out the best in each individual, striving f
 
 ### Our Ethos
 
-Harmony Primary School is an Islamic faith school which follows the Sunni methodology. Our Islamic Curriculum is based upon the Ash^ari and Maturidi theology and promotes the four schools of thought, namely the Hanafi, Maliki, Shafi^iy and Hanbali madhabs. As a school, we commemorate Islamic occasions such as RamaDaan, ^Eid, Israa' and Mi^raaj and the birth of Prophet Muhammed sallallaahu ^alayhi wa sallam.
+Harmony Primary School is an Islamic faith school which follows the Sunni methodology. Our Islamic Curriculum is based upon the Ash^ari and Maturidi theology and promotes the four schools of thought, namely the Hanafi, Maliki, Shafi^iy and Hanbali madhabs. As a school, we commemorate Islamic occasions such as RamaDaan, ^Eid, Israa' and Mi^raaj and the Birth of Prophet Muhammed sallallaahu ^alayhi wa sallam.
 
 # Our Core Values
 
