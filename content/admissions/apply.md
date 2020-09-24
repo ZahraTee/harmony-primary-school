@@ -9,7 +9,7 @@ weight = 2
 
 To apply for a place for your child at Harmony Primary School, please complete our application form.
 
-{{% file-download "Application Form" "../admissions_process_hps_flow_chart.pdf" %}}
+{{% file-download "Application Process" "../admissions_process_hps_flow_chart.pdf" %}}
 
 {{% file-download "Application Form" "../HPS_Pupil_App_Form_sept_2020.pdf" %}}
 
