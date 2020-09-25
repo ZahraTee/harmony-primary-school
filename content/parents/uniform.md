@@ -19,6 +19,6 @@ Our school uniform will:
 * make children feel equal to one another in terms of appearance; reflect the sense both of community and of diversity that the school takes pride in;
 * be regarded as suitable, and good value for money, by most parents.
 
-{{% file-download "Boys' uniform" "../Harmony Primary School Prospectus.pdf" %}}
+{{% file-download "Boys' uniform" "../HPS_boys_uniform-final.pdf" %}}
 
-{{% file-download "Girls' unform" "../Harmony Primary School Prospectus.pdf" %}}
+{{% file-download "Girls' uniform" "HPS_girls_uniform-final.pdf" %}}
