@@ -23,7 +23,7 @@ weight = 4
 
 **Half Term:** 15th Feb 2021 - 19th Feb 2021
 
-**Spring Break:** 1st April
+**Spring Break:** 1st April - 9th April 2021
 
 ### **Summer Term 2021**
 
