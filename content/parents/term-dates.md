@@ -23,11 +23,11 @@ weight = 4
 
 **Half Term:** 15th Feb 2021 - 19th Feb 2021
 
-**Spring Break:** 31st of Mar 2021 - 9th April 2021
-
-**Inset Day:** 12th April 2021
+**Spring Break:** 1st April
 
 ### **Summer Term 2021**
+
+**Inset Day:** 12th April 2021
 
 **Term Begins:** 13th April 2021
 
