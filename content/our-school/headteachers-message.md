@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Headteacher’s Message"
 [menu.main]
 name = "Headteacher's Message"
