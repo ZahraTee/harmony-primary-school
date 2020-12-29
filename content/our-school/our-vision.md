@@ -19,20 +19,20 @@ Harmony Primary School is an Islamic faith school which follows the Sunni method
 
 ## Community
 
-We will seek to foster strong links with the wider community and encourage our children to appreciate differences in age, ethnicity and social background. Harmony Primary School will place the pupil at the heart of the community and we intend for the outstanding education that our children receive to become a source of nourishment for the wider community.
+We will seek to foster strong links within the wider community and we actively encourage our children to celebrate commonality and appreciate difference. Harmony Primary School places the pupil at the heart of the community through a wide variety of outreach programmes and through links with local schools and community groups.
 
 ## Excellence
 
-We will motivate pupils and teachers to strive for high levels of excellence in all their endeavours, whether academic or skills based. We will nurture an environment where excellence is demanded from students and teachers alike as we maintain our curricular focus upon core educational skills.
+We motivate pupils and teachers to strive for excellence in all their endeavours; both academic and extra-curricular. Through setting high expectations for learning and supporting the learners with a range of activities in our after-school club programme, we aim to offer a holistic approach to personal success.
 
 ## Discipline
 
-At Harmony Primary School, discipline will be linked to achievement and this element of our ethos is therefore closely tied to our curricular commitments. We will strive to instil a positive work-ethic in all our pupils.
+At Harmony Primary School, discipline is closely linked to our reward and sanction system. This element of our ethos is one that relies on a strong relationship between parents and teachers to maintain a sense of consistency for the young learners. We strive to instil a good work ethic in all our pupils through a transparent behaviour policy and through positive reinforcement.
 
 ## Achievement
 
-This reflects our commitment to providing an outstanding academic curriculum that is broad and balanced with equal opportunities for every pupil. We believe our progressive educational methodology will enable pupils to aim high and reach even higher in an environment that nurtures their wellbeing, achievement, and creativity.
+Our commitment to providing an outstanding academic curriculum that is broad and balanced, with equal opportunities for every pupil, is a core part of our ethos. Our progressive educational methodology enables pupils to aim high in an environment that nurtures their wellbeing and development.
 
 ## Respect
 
-We will cultivate respectful attitudes between pupils, teachers, parents, carers and the wider community. We are dedicated to promoting a safe environment where pupils can thrive as individuals while understanding their responsibilities to the wider school community. Our attention to encouraging social consciousness will link to the commitments we make in our extended curriculum.
+We cultivate respectful attitudes between pupils, teachers, parents, carers and within the wider community. We are dedicated to promoting a safe environment where pupils can thrive as individuals while understanding their responsibilities to the wider school community. Our emphasis in encouraging social consciousness links to the commitments we have made through both timetabled subjects and our extra-curricular programme.
